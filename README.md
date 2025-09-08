@@ -1,11 +1,14 @@
 # Quality-Control-Testing-and-Analytics
 This project demonstrates an end-to-end data analytics workflow using Excel for data preparation and Power BI for visualization and storytelling.
+
+
 ## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Tools and Methodology](#tools-and-methodology)
   - [Excel (Data Preparation & Cleaning)](#excel-data-preparation--cleaning)
   - [Power BI (Visualization & Insights)](#power-bi-visualization--insights)
+  - [Dashboard](#dashboard)
 - [Key Insights](#key-insights)
   - [Pass vs. Fail Distribution](#pass-vs-fail-distribution)
   - [Regional Performance Variations](#regional-performance-variations)
@@ -88,6 +91,7 @@ Ensured the dataset was structured for analysis in Power BI.
 
 •	Added slicer for Region, Production Name, and Month to make it interactive.
 
+### dashboard
 
 <img width="624" height="351" alt="QC Analysis Dashboard" src="https://github.com/user-attachments/assets/7f928b8c-31c9-45fb-be75-8b9d881bde32" />
 
@@ -95,34 +99,34 @@ Ensured the dataset was structured for analysis in Power BI.
 ## Key Insights
 
 
-1.	Pass vs. Fail Distribution
+### Pass vs. Fail Distribution
 
 
     •	High Failure Rate: 55.33% of batches failed QC tests, signaling potential risks in compliance and product reliability.
 
     •	A significant number of batches failed critical QC tests, especially in Weight, Purity, Viscosity, and pH, which are essential for product safety and consistency.
 
-1.	Regional Performance Variations
+### Regional Performance Variations
 
 
     •	Certain regions (e.g., Port Harcourt) reported higher failure rates, suggesting inconsistent practices in staff supervision, adherence to SOPs, or equipment reliability.
 
-2.	Analyst-Linked Variability
+### Analyst-Linked Variability
 
    
     •	Analysts handling higher workloads showed higher failure rates, likely due to fatigue, rushed testing, and training gaps.
 
-3.	Impact of Production Targets
+### Impact of Production Targets
 
 
     •	Failure spikes coincide with periods of high production pressure, indicating that outrageous targets are pushing staff to compromise quality checks.
 
-4.	Equipment Reliability
+### Equipment Reliability
 
 
     •	Failures in Viscosity and Strength tests suggest inadequate calibration and poor maintenance of QC instruments, increasing inconsistent results and rejections.
 
-5.	Raw Materials from Unauthorized Vendors
+### Raw Materials from Unauthorized Vendors
 
 
     •	Batches with low Purity and out-of-specification results point toward possible procurement of raw materials from unvalidated suppliers.
@@ -132,7 +136,7 @@ Ensured the dataset was structured for analysis in Power BI.
 
 ## Recommendations
 
-1.	Strengthening Staff Management & Training
+### Strengthening Staff Management & Training
 
 
     •	Standardize QC processes across all regions through refresher training and SOP alignment.
@@ -141,14 +145,14 @@ Ensured the dataset was structured for analysis in Power BI.
 
     •	Monitor staff performance with supportive, rather than punitive, approaches.
 
-2.	Review Production Targets
+### Review Production Targets
 
 
     •	Set realistic batch production targets that prioritize quality over speed.
 
     •	Incorporate quality KPIs (e.g., pass rate, avoid repeat test) into staff evaluations.
 
-3.	Enhance Equipment Maintenance
+### Enhance Equipment Maintenance
 
 
     •	Establish a strict preventive maintenance and calibration program.
@@ -157,7 +161,7 @@ Ensured the dataset was structured for analysis in Power BI.
 
     •	Create rapid reporting systems for faulty equipment.
 
-4.	Vendor Validation & Procurement Control
+### Vendor Validation & Procurement Control
 
 
     •	Procure raw materials only from authorized, validated, and audited vendors.
@@ -166,14 +170,14 @@ Ensured the dataset was structured for analysis in Power BI.
 
     •	Link material traceability to test results to quickly identify supplier-related failures.
 
-5.	Implement Regional Quality Harmonization
+### Implement Regional Quality Harmonization
 
 
     •	Share best practices from high-performing sites with weaker ones.
 
     •	Create a central Quality Review Committee to track, investigate, and address recurring failures.
 
-6.	Promote a Culture of Quality First
+### Promote a Culture of Quality First
 
 
     •	Reaffirm that compliance and patient safety outweigh production targets.
@@ -181,7 +185,7 @@ Ensured the dataset was structured for analysis in Power BI.
     •	Recognize and reward teams consistently meeting quality standards.
 
 
-7.	Process Improvement
+### Process Improvement
 
     •	Focus on tests with the highest failure rates (e.g., viscosity, weight, purity) for root cause investigation.
 
