@@ -91,7 +91,7 @@ Ensured the dataset was structured for analysis in Power BI.
 
 •	Added slicer for Region, Production Name, and Month to make it interactive.
 
-### dashboard
+### Dashboard
 
 <img width="624" height="351" alt="QC Analysis Dashboard" src="https://github.com/user-attachments/assets/7f928b8c-31c9-45fb-be75-8b9d881bde32" />
 
