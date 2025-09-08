@@ -1,5 +1,29 @@
 # Quality-Control-Testing-and-Analytics
 This project demonstrates an end-to-end data analytics workflow using Excel for data preparation and Power BI for visualization and storytelling.
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Tools and Methodology](#tools-and-methodology)
+  - [Excel (Data Preparation & Cleaning)](#excel-data-preparation--cleaning)
+  - [Power BI (Visualization & Insights)](#power-bi-visualization--insights)
+- [Key Insights](#key-insights)
+  - [Pass vs. Fail Distribution](#pass-vs-fail-distribution)
+  - [Regional Performance Variations](#regional-performance-variations)
+  - [Analyst-Linked Variability](#analyst-linked-variability)
+  - [Impact of Production Targets](#impact-of-production-targets)
+  - [Equipment Reliability](#equipment-reliability)
+  - [Raw Materials from Unauthorized Vendors](#raw-materials-from-unauthorized-vendors)
+- [Recommendations](#recommendations)
+  - [Strengthening Staff Management & Training](#strengthening-staff-management--training)
+  - [Review Production Targets](#review-production-targets)
+  - [Enhance Equipment Maintenance](#enhance-equipment-maintenance)
+  - [Vendor Validation & Procurement Control](#vendor-validation--procurement-control)
+  - [Implement Regional Quality Harmonization](#implement-regional-quality-harmonization)
+  - [Promote a Culture of Quality First](#promote-a-culture-of-quality-first)
+  - [Process Improvement](#process-improvement)
+- [Conclusion](#conclusion)
+- [Contact](#contact)
+
 
 ## Project Overview
 
@@ -8,7 +32,7 @@ This project was developed to analyze Quality Control (QC) test results across m
 Disclaimer: The data used in this project is entirely fictitious and has no connection to any real company.
 
 
-## Tools & Methodology
+## Tools and Methodology
 
 Excel (Data Preparation & Cleaning)
 
